@@ -32,10 +32,10 @@ all:	$(NAME)
 $(NAME): $(OBJ)
 	make -C lib/
 	$(CC) $(SRC) -o $(NAME) $(CFLAGS) $(LDFLAGS)
+	rm $(OBJ)
 
 clean:
 	rm $(NAME)
-	rm $(OBJ)
 
 fclean:	clean
 
