@@ -5,7 +5,7 @@
 ** get_p_move
 */
 
-#include "include/matchstick.h"
+#include "../include/matchstick.h"
 
 void print_p_move(game_board_t *g_board)
 {

@@ -5,7 +5,7 @@
 ** print_game_board
 */
 
-#include "include/matchstick.h"
+#include "../include/matchstick.h"
 
 void print_game_board(game_board_t *g_board)
 {

@@ -10,10 +10,7 @@ SRC =	src/my_printf.c \
 		src/function2.c \
 		src/disp_stdarg.c \
 
-OBJ =	src/my_printf.o \
-		src/function.o \
-		src/function2.o \
-		src/disp_stdarg.o \
+OBJ =	${SRC:.c=.o}
 
 NAME = libmy.a
 

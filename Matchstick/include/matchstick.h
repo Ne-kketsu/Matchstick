@@ -15,7 +15,7 @@
 #include <stdio.h>
 #include <sys/stat.h>
 #include <sys/types.h>
-#include "src/lib/include/my_printf.h"
+#include "../lib/include/my_printf.h"
 
 typedef struct game_board_s {
     int iarm_m;

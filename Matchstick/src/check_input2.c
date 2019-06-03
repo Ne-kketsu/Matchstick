@@ -5,7 +5,7 @@
 ** check_input2
 */
 
-#include "include/matchstick.h"
+#include "../include/matchstick.h"
 
 int compute_avaible_matches(game_board_t *g_board)
 {

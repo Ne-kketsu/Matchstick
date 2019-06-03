@@ -5,7 +5,7 @@
 ** ia_move
 */
 
-#include "include/matchstick.h"
+#include "../include/matchstick.h"
 
 int random_number(int min_num, int max_num)
 {

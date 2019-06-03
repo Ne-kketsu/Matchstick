@@ -5,7 +5,7 @@
 ** check_win_or_loose
 */
 
-#include "include/matchstick.h"
+#include "../include/matchstick.h"
 
 void check_last_stick(game_board_t *g_board, int i)
 {

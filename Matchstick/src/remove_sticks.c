@@ -5,7 +5,7 @@
 ** remove_sticks
 */
 
-#include "include/matchstick.h"
+#include "../include/matchstick.h"
 
 void rm_sticks(game_board_t *g_board, int line, int nb_matches)
 {

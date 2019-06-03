@@ -5,7 +5,7 @@
 ** init_gameboard
 */
 
-#include "include/matchstick.h"
+#include "../include/matchstick.h"
 
 void init_gameboard2(game_board_t *g_board)
 {

@@ -5,7 +5,7 @@
 ** create_board
 */
 
-#include "include/matchstick.h"
+#include "../include/matchstick.h"
 
 void set_sticks(game_board_t *g_board, int i, int j)
 {
