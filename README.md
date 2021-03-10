@@ -1,5 +1,5 @@
 # Matchstick
-My very first project with an Artificial Intelligence (Mostly random and unimpressive...but it gets the job done!).
+My very first project with an Artificial Intelligence.
 
 - NOTE: 
 Currently avaible on Linux OS only. Windows version coming soon.
