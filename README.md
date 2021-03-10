@@ -2,7 +2,7 @@
 My very first project with an Artificial Intelligence.
 
 - NOTE: 
-Currently avaible on Linux OS only. Windows version coming soon.
+Currently avaible on !Linux OS only!.
 
 - USAGE:
 1. in root directory (Matchstick), open terminal and enter "make" command.
