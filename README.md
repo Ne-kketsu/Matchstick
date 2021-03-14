@@ -3,12 +3,6 @@ My very first project with an Artificial Intelligence.
 
 This AI is unbeatable, try it yourself ! 
 
-# Matchstick Preview
-![Matchstick](ScreenShots/Matchstick_00.png)
-![Matchstick](ScreenShots/Matchstick_04.png)
-![Matchstick](ScreenShots/Matchstick_05.png)
-![Matchstick](ScreenShots/Matchstick_06.png)
-
 - USAGE (in root directory):
 
 1. Open a terminal in the ROOT directory (Matchstick/).
@@ -17,3 +11,14 @@ This AI is unbeatable, try it yourself !
 
 - NOTE: 
 Currently avaible on Linux OS only.
+
+# Matchstick Preview
+### Start Game
+![Matchstick](ScreenShots/Matchstick_00.png)
+
+### Mid Game
+![Matchstick](ScreenShots/Matchstick_04.png)
+
+### End Game
+![Matchstick](ScreenShots/Matchstick_05.png)
+![Matchstick](ScreenShots/Matchstick_06.png)
