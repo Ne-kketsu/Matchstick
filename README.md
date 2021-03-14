@@ -1,7 +1,7 @@
 # Matchstick
 My very first project with an Artificial Intelligence.
 
-This AI is unbeatable, try it yourself ! 
+## This AI is unbeatable, try it yourself ! 
 
 ### USAGE (in root directory):
 
